@@ -11,8 +11,8 @@ CREATE TABLE users (
 
 INSERT INTO users (username, password, email) 
 VALUES 
-('MithranYT', 'Sensitive123#', 'LearnWithMithran@example.com'),
-('Arun', 'Arun123', 'arun@example.com'),
-('Surya', 'Surya123', 'surya@example.com');
+('Sk', 'Sensitive123#', 'sk@example.com'),
+('Saravana', 'Saravana123', 'Saravana@example.com'),
+('Skp', 'Skp123', 'skp@example.com');
 
 SELECT * FROM users;
