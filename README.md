@@ -112,5 +112,5 @@ touch index.html script.js styles.css
 
 - Create an **A record** with alias pointing to the Frontend Load Balancer.
 
-## 16. Attach ACM Certificate to Load Balancer
+## 16. Attach ACM Certificate to Load Balancer.
 
