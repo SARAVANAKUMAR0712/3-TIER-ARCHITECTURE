@@ -12,7 +12,7 @@ CREATE TABLE users (
 INSERT INTO users (username, password, email) 
 VALUES 
 ('Sk', 'Sensitive123#', 'sk@example.com'),
-('Saravana', 'Saravana123', 'Saravana@example.com'),
+('Saravana', 'Saravana123', 'saravana@example.com'),
 ('Skp', 'Skp123', 'skp@example.com');
 
 SELECT * FROM users;
